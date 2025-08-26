@@ -1,2 +1,1 @@
-# Clash-Mi
-Clash Mi 下载分享中文官网资源
+# Clash Mi 下载分享中文官网资源
