@@ -1,6 +1,10 @@
 # Clash Mi 下载分享中文官网资源
 
-
+<br>
+<div align="center">
+  <img width="150" height="150" alt="ClashMi" src="https://github.com/user-attachments/assets/b0c63a31-1636-4702-b880-477c6a0eea11" />
+</div>
+<br>
 
 ## :memo: Clash Mi 节点资源
 
